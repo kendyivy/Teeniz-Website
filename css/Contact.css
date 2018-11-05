@@ -1,0 +1,112 @@
+ul li{
+  display: inline-block;
+  padding: 20px;
+  font-size: 20px;
+  position: relative;
+  left: 290px;
+  bottom: 70px;
+}
+.box{
+  width:1348px;
+  height: 100px;
+  background-color:#FF8C00;
+  position: relative;
+  left:0px;
+}
+.logo img{
+  width: 50px;
+  height: 50px;
+  border-color: gray;
+  position: relative;
+  left: 30px;
+  top:20px;
+}
+.ivy{
+  width: 1348px;
+  height: 500px;
+  background-color: #42494f;
+  position: relative;
+  bottom: 55px;
+}
+h1{
+  text-align: center;
+  color: white;
+}
+hr{
+  width:500px;
+}
+h2{
+  color: white;
+  text-align: center;
+}
+input{
+  width: 400px;
+  height: 50px;
+  position: relative;
+  left: 200px;
+  text-align: center;
+}
+.fa-envelope-o{
+  position: relative;
+  left: 700px;
+  bottom: 200px;
+}
+.icons p{
+  position: relative;
+  left:750px;
+  bottom: 240px;
+  color: white;
+}
+.fa-map-marker{
+  position: relative;
+  left: 706px;
+  bottom: 200px;
+
+}
+.two p{
+  position: relative;
+  left:752px;
+  bottom: 240px;
+  color: white;
+
+}
+.fa-phone{
+  position: relative;
+  left: 706px;
+  bottom: 215px;
+
+}
+.three p{
+  position: relative;
+  left:752px;
+  bottom: 254px;
+  color: white;
+
+}
+footer{
+  width:1348px;
+  height: 200px;
+  background-color:#FF8C00;
+  position: relative;
+  bottom: 55px;
+  color: white;
+}
+.fa-copyright{
+  position: relative;
+  left:500px;
+  top:50px;
+}
+footer p{
+  position: relative;
+  left:550px;
+  top:10px;
+}
+footer hr{
+  width: 900px;
+}
+h3{
+  font-weight: lighter;
+  position: relative;
+  left:600px;
+
+}

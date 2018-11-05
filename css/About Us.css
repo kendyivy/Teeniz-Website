@@ -1,0 +1,196 @@
+ul li{
+  display: inline-block;
+  padding: 20px;
+  font-size: 20px;
+  position: relative;
+  left: 290px;
+  bottom: 70px;
+}
+.box{
+  width:1350px;
+  height: 100px;
+  background-color:#FF8C00;
+  position: relative;
+  left:0px;
+}
+.logo img{
+  width: 50px;
+  height: 50px;
+  border-color: gray;
+  position: relative;
+  left: 30px;
+  top:20px;
+}
+.one hr{
+  width:500px;
+  position: relative;
+  top:20px;
+
+}
+
+h1{
+ text-align: center;
+
+}
+.leah{
+  width:1355px;
+  height:650px;
+  background-color: #f4f4f4;
+  position: relative;
+  bottom: 50px;
+}
+h2{
+  text-align: center;
+ font-family: lighter;
+}
+.two{
+  width: 150px;
+  height: 30px;
+  background-color: black;
+  position: relative;
+  left:100px;
+
+}
+.two p{
+  color: white;
+  position: relative;
+  left: 45px;
+  top: 3px;
+}
+.three{
+  width: 15px;
+  height: 15px;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 100%;
+  position: relative;
+  bottom: 30px;
+
+}
+.four{
+  width: 15px;
+  height: 15px;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 100%;
+  position: relative;
+  bottom: 50px;
+  left:130px;
+
+}
+.five{
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  background-color: green;
+  position: relative;
+  left:160px;
+  top:50px;
+}
+.five img{
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  object-fit: cover;
+}
+.six{
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  background-color: green;
+  position: relative;
+  left: 550px;
+  bottom: 150px;
+  
+}
+.six img{
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  object-fit: cover;
+
+}
+.seven{
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  background-color: green;
+  position: relative;
+  left:960px;
+  bottom:350px;
+
+
+}
+.seven img{
+  width: 200px;
+  height: 200px;
+
+  border-radius: 100px;
+  object-fit: cover;
+}
+.eight{
+  width: 200px;
+  height: 200px;
+  position: relative;
+  bottom:330px;
+  left:160px;
+}
+
+.nine{
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left:580px;
+  bottom:570px;
+
+}
+h4{
+  font-size: 20px;
+}
+.ten{
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left:1000px;
+  bottom:810px;
+
+}
+h5{
+  font-size: 20px;
+  position: relative;
+  top:5px; 
+
+}
+footer{
+  width:1348px;
+  height: 200px;
+  background-color:#FF8C00;
+  position: relative;
+  top: 650px;
+  color: white;
+}
+.fa-copyright{
+  position: relative;
+  left:500px;
+  top:50px;
+}
+footer p{
+  position: relative;
+  left:550px;
+  top:10px;
+}
+footer hr{
+  width: 900px;
+}
+h3{
+  font-size: 20px;
+  position: relative;
+  bottom: 3px;
+}
+footer h3{
+  position: relative;
+  left: 600px;
+ 
+  font-size: 15px;
+
+}

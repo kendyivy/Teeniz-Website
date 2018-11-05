@@ -1,0 +1,242 @@
+ul li{
+  display: inline-block;
+  padding: 20px;
+  font-size: 20px;
+  position: relative;
+  left: 290px;
+  bottom: 70px;
+}
+.box{
+  width:1348px;
+  height: 100px;
+  background-color:#FF8C00;
+  position: relative;
+  left:0px;
+}
+.logo img{
+  width: 50px;
+  height: 50px;
+  border-color: gray;
+  position: relative;
+  left: 30px;
+  top:20px;
+}
+.one img{
+  width: 1348px;
+  height:430px;
+  object-fit: cover;
+  position: relative;
+  bottom:50px;
+  opacity: 0.5;
+}
+.fa-child{
+  position: relative;
+  bottom:420px;
+  left: 620px;
+}
+h1{
+  position: relative;
+  left: 500px;
+  bottom:410px;
+}
+h2{
+  position: relative;
+  bottom:390px;
+  left:430px;
+}
+.fa-calendar{
+  position: relative;
+  bottom:380px;
+  left:400px;
+}
+.two{
+  width:150px;
+  height: 40px;
+  border: 1px solid black;
+  position:relative;
+  bottom: 350px;
+  left:350px;
+}
+.two p{
+  text-align: center;
+}
+.three{
+  width:150px;
+  height: 40px;
+  border: 1px solid black;
+  position:relative;
+  bottom: 425px;
+  left:580px;
+
+}
+.fa-tags{
+  position: relative;
+  bottom:450px;
+  left:600px;
+}
+.three p{
+  text-align: center;
+}
+.fa-map-marker{
+  position: relative;
+  bottom:530px;
+  left:850px;
+}
+.four{
+  width:150px;
+  height: 40px;
+  border: 1px solid black;
+  position:relative;
+  bottom: 495px;
+  left:800px;
+  text-align: center;
+
+}
+.fa-binoculars{
+  position: relative;
+  bottom:600px;
+  left:1020px;
+
+}
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    bottom:570px;
+    left:1000px;
+}
+.success {
+    color: black;
+}
+
+.success:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+.info {
+    color: dodgerblue;
+}
+.five{
+  width: 1348px;
+  height:1000px;
+  background-color: #f4f4f4;
+  position: relative;
+  bottom:540px;
+}
+h3{
+  position: relative;
+  left:600px;
+  top:50px;
+}
+.six{
+  background-color: white;
+  width:900px;
+  height: 600px;
+  position: relative;
+  top: 40px;
+  left:200px;
+}
+h4{
+  position: relative;
+  top:80px;
+  left:30px;
+  font-size: 30px;
+}
+.six img{
+  width: 100px;
+  height: 50px;
+  position:relative;
+  left:100px;
+  top:7px;
+  object-fit: cover;
+
+}
+.six p{
+  position: relative;
+  left:100px;
+  color: red;
+}
+.seven p{
+  color: black;
+}
+.seven{
+  position: relative;
+  left: 500px;
+  bottom:90px;
+}
+h5{
+  position: relative;
+  bottom:200px;
+  left:240px;
+  font-size: 30px;
+
+}
+.eight img{
+  width: 100px;
+  height: 50px;
+  position:relative;
+  left:310px;
+  bottom:280px;
+}
+.eight p{
+  color: red;
+  position: relative;
+  left:320px;
+  bottom:270px;
+}
+.nine p{
+  color:black;
+  position: relative;
+  left:790px;
+  bottom:400px;
+}
+.price p{
+  position: relative;
+  bottom:850px;
+  left:600px;
+  font-size: 30px;
+}
+.ten{
+  width: 450px;
+  height:150px;
+  background-color: black;
+  position:relative;
+  bottom:820px;
+  left:450px;
+}
+.ten p{
+  color: white;
+  text-align: center;
+}
+footer{
+  width:1348px;
+  height: 200px;
+  background-color:#FF8C00;
+  position: relative;
+  bottom: 780px;
+  color: white;
+}
+.fa-copyright{
+  position: relative;
+  left:500px;
+  top:50px;
+}
+footer p{
+  position: relative;
+  left:550px;
+  top:10px;
+}
+footer hr{
+  width: 900px;
+}
+h3{
+  font-size: 15px;
+  position: relative;
+  left:600px;
+  bottom: 200px;
+
+}
