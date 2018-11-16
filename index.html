@@ -2,23 +2,23 @@
 <html>
 
 <head>
-	<title>Advert2</title>
+  <title>Advert2</title>
 
-	<link rel ="stylesheet" type="text/css" href="css/main.css">
-	<link rel="stylesheet" type="text/css" href="css/normalize.css">
+  <link rel ="stylesheet" type="text/css" href="css/main.css">
+  <link rel="stylesheet" type="text/css" href="css/normalize.css">
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   
   
 
   
-	
+  
 </head>
 
-	<body>
+  <body>
+  <div class="trial">
   <div class="box">
   <div class="logo">
-  <img src="img/grouplogo (1).png">
-    
+ <img src="img/bluee.png">
   </div>
   <nav>
   <ul>
@@ -29,7 +29,9 @@
     <li><a href="Contact.html">Contact</a></li>
     
   </ul>
-</nav>
+  </nav>
+  </div>
+<!-- </nav>
 <div class="one">
 <img src="img/mainpic.png">
 </div>
@@ -37,58 +39,52 @@
 <img src="img/lo.png">
 <h1>Love Life<br>Explained</h1>
 </div>
-<div class="three">
-<img src="img/lady.jpg">
-<h2>Beauty In <br>Details</h2>
-</div>
-<div class="four">
-<img src="img/emoji.jpg">
-<h3>Relationship<br>well explained</h3>
-</div>
-<div class="five">
-<h4>Latest posts</h4>
-<p>wnb cdbcdv;bvd <br>
-  bidbhh</p>
-<h5>Confessions</h5>
-<div class="eve">
+<div class="three"> -->
+<!-- <img src="img/lady.jpg"> --><!-- 
 
-  
-</div>
-<br><br>
-<hr>
-
-<div class="fat">
-
-<div class="es">
-<img src="img/disney.jpg">
-<p>:I have a <br>problem <br>with my<br> boyfriend</p>
-</div>
-
-<div class="yv">
-<p>Which problem <br>is it? help me<br> understand</p>
-<img src="img/comic.png">
-  
-</div>
-      
-
-  
-</div>
+ -->
 
 
 
-  
+<div class="slides">
+  <img class="mySlides" src="img/music.jpg" style="width:1380px", height="280px">
+  <img class="mySlides" src="img/college.jpg" style="width:1380px", height="280px">
+  <img class="mySlides" src="img/soap.jpg" style="width:1380px", height="280px">
+  <img class="mySlides" src="img/fun.jpg" style="width:1380px", height="280px",>
+  <img class="mySlides" src="img/girl.jpg" style="width:1380px", height="280px">
+   <img class="mySlides" src="img/sky.jpg" style="width:1380px", height="280px">
+
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
+<p>Learn More About Teenage Life</p>
+
 </div>
-</div>
+
 <footer>
   <i class="fa fa-copyright" style="font-size:30px;"></i>
   <p>2018, All rights reserved  About Us | Privacy | Terms & Conditions</p>
   <hr>
   <h3>teeniz group</h3>
 </footer>
-
+</div>
    
 
   
- 	</body>
-	
+  </body>
+  
 </html>

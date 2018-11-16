@@ -3,12 +3,14 @@ ul li{
   padding: 20px;
   font-size: 20px;
   position: relative;
-  left: 290px;
-  bottom: 70px;
+  left: 380px;
+  bottom: 65px;
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
 .box{
   width:1348px;
-  height: 100px;
+  height: 90px;
   background-color:#FF8C00;
   position: relative;
   left:0px;
@@ -148,11 +150,12 @@ h4{
 }
 .six img{
   width: 100px;
-  height: 50px;
+  height: 55px;
   position:relative;
   left:100px;
   top:7px;
   object-fit: cover;
+  opacity: 0.9;
 
 }
 .six p{
@@ -181,6 +184,7 @@ h5{
   position:relative;
   left:310px;
   bottom:280px;
+  opacity: 0.9;
 }
 .eight p{
   color: red;

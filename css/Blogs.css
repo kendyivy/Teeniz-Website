@@ -3,8 +3,10 @@ ul li{
   padding: 20px;
   font-size: 20px;
   position: relative;
-  left: 290px;
-  bottom: 70px;
+  left: 380px;
+  bottom: 65px;
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
 .box{
   width:1348px;
@@ -23,7 +25,7 @@ ul li{
 }
 .one{
   width:1348px;
-  height: 3300px;
+  height: 4400px;
   background-color: gray;
   position: relative;
   bottom:50px;
@@ -88,6 +90,7 @@ h2{
 h3{
   text-align: center;
   font-size:30px;
+  font-weight: bold;
 
 }
 .five{
@@ -95,8 +98,8 @@ h3{
   height:940px;
   background-color:white; 
   position:relative;
-  left:670px;
-  bottom:1700px;
+  left:680px;
+  bottom:1800px;
   padding-right: 10px;
   padding-left: 10px;
   padding-top: 10px;
@@ -143,8 +146,8 @@ h5{
   height:1010px;
   background-color:white; 
   position:relative;
-  left:670px;
-  bottom:2630px;
+  left:680px;
+  bottom:2750px;
   padding-right: 10px;
   padding-left: 10px;
   padding-top: 10px;
@@ -160,12 +163,56 @@ h6{
   text-align: center;
   font-size:30px;
 }
+.eight{
+  width:450px;
+  height:1010px;
+  background-color:white; 
+  position:relative;
+  left:150px;
+  bottom:2650px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 25px;
+}
+.eight img{
+  width: 450px;
+  height: 320px;
+  object-fit: cover;
+}
+.r p{
+  text-align: center;
+  font-size: 30px;
+}
+.nine{
+  width:450px;
+  height:1010px;
+  background-color:white; 
+  position:relative;
+  left:680px;
+  bottom:3730px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 25px;
+
+}
+.nine img{
+  width: 450px;
+  height: 320px;
+  object-fit: cover;
+}
+.s p{
+  text-align: center;
+  font-size: 30px
+}
+
 footer{
   width:1348px;
   height: 200px;
   background-color:#FF8C00;
   position: relative;
-  top: 3230px;
+  top: 4250px;
   color: white;
 }
 .fa-copyright{
@@ -181,9 +228,10 @@ footer p{
 footer hr{
   width: 900px;
 }
-h3{
+ footer h3{
   font-weight: lighter;
   position: relative;
   left:50px;
+  font-size: 15px;
 
 }
